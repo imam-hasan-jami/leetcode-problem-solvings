@@ -5,5 +5,9 @@
         "vector": "cpp",
         "variant": "cpp",
         "__locale": "cpp"
-    }
+    },
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_fallbackStyle": "none", 
+    "C_Cpp.clang_format_path": "/usr/bin/clang-format"  // Ensure this points to your clang-format executable.
+
 }
